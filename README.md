@@ -122,8 +122,8 @@ Please make sure your changes follow the existing code style and include appropr
 
 ## 👤 Author
 
-Your Name — [@yourhandle](https://github.com/luaaths)
-Project Link: [https://github.com/luaaths/live-chat-application(https://github.com/your-username/chattables)
+Your Name — cse2021surya(https://github.com/cse2021surya)
+Project Link: [https://github.com/luaaths/live-chat-application(https://github.com/cse2021surya/chattables)
 
 ```
 
